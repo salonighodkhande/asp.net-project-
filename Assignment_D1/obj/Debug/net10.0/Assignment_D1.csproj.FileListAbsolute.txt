@@ -1,0 +1,14 @@
+D:\practical_dotnet\Assignment_D1\bin\Debug\net10.0\Assignment_D1.exe
+D:\practical_dotnet\Assignment_D1\bin\Debug\net10.0\Assignment_D1.deps.json
+D:\practical_dotnet\Assignment_D1\bin\Debug\net10.0\Assignment_D1.runtimeconfig.json
+D:\practical_dotnet\Assignment_D1\bin\Debug\net10.0\Assignment_D1.dll
+D:\practical_dotnet\Assignment_D1\bin\Debug\net10.0\Assignment_D1.pdb
+D:\practical_dotnet\Assignment_D1\obj\Debug\net10.0\Assignment_D1.GeneratedMSBuildEditorConfig.editorconfig
+D:\practical_dotnet\Assignment_D1\obj\Debug\net10.0\Assignment_D1.AssemblyInfoInputs.cache
+D:\practical_dotnet\Assignment_D1\obj\Debug\net10.0\Assignment_D1.AssemblyInfo.cs
+D:\practical_dotnet\Assignment_D1\obj\Debug\net10.0\Assignment_D1.csproj.CoreCompileInputs.cache
+D:\practical_dotnet\Assignment_D1\obj\Debug\net10.0\Assignment_D1.dll
+D:\practical_dotnet\Assignment_D1\obj\Debug\net10.0\refint\Assignment_D1.dll
+D:\practical_dotnet\Assignment_D1\obj\Debug\net10.0\Assignment_D1.pdb
+D:\practical_dotnet\Assignment_D1\obj\Debug\net10.0\Assignment_D1.genruntimeconfig.cache
+D:\practical_dotnet\Assignment_D1\obj\Debug\net10.0\ref\Assignment_D1.dll

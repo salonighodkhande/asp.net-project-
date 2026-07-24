@@ -1,0 +1,14 @@
+D:\Assignment\VehicleSystem\bin\Debug\net10.0\VehicleSystem.exe
+D:\Assignment\VehicleSystem\bin\Debug\net10.0\VehicleSystem.deps.json
+D:\Assignment\VehicleSystem\bin\Debug\net10.0\VehicleSystem.runtimeconfig.json
+D:\Assignment\VehicleSystem\bin\Debug\net10.0\VehicleSystem.dll
+D:\Assignment\VehicleSystem\bin\Debug\net10.0\VehicleSystem.pdb
+D:\Assignment\VehicleSystem\obj\Debug\net10.0\VehicleSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\VehicleSystem\obj\Debug\net10.0\VehicleSystem.AssemblyInfoInputs.cache
+D:\Assignment\VehicleSystem\obj\Debug\net10.0\VehicleSystem.AssemblyInfo.cs
+D:\Assignment\VehicleSystem\obj\Debug\net10.0\VehicleSystem.csproj.CoreCompileInputs.cache
+D:\Assignment\VehicleSystem\obj\Debug\net10.0\VehicleSystem.dll
+D:\Assignment\VehicleSystem\obj\Debug\net10.0\refint\VehicleSystem.dll
+D:\Assignment\VehicleSystem\obj\Debug\net10.0\VehicleSystem.pdb
+D:\Assignment\VehicleSystem\obj\Debug\net10.0\VehicleSystem.genruntimeconfig.cache
+D:\Assignment\VehicleSystem\obj\Debug\net10.0\ref\VehicleSystem.dll

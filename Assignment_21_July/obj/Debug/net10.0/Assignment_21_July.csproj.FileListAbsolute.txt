@@ -1,0 +1,8 @@
+D:\Assignment\Assignment_21_July\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Assignment\Assignment_21_July\obj\Debug\net10.0\Assignment_21_July.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Assignment_21_July\obj\Debug\net10.0\Assignment_21_July.AssemblyInfoInputs.cache
+D:\Assignment\Assignment_21_July\obj\Debug\net10.0\Assignment_21_July.AssemblyInfo.cs
+D:\Assignment\Assignment_21_July\obj\Debug\net10.0\Assignment_21_July.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment_21_July\obj\Debug\net10.0\Assignment_21_July.MvcApplicationPartsAssemblyInfo.cache
+D:\Assignment\Assignment_21_July\obj\Debug\net10.0\Assignment_21_July.RazorAssemblyInfo.cache
+D:\Assignment\Assignment_21_July\obj\Debug\net10.0\Assignment_21_July.RazorAssemblyInfo.cs

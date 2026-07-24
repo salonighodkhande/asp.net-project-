@@ -1,0 +1,30 @@
+﻿@model List<Assignment_16_July.Models.Employee>
+ <link rel="stylesheet" href=" ~/css/style.css"/> 
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Our Employee Management System</h1>
+</div>
+<div>
+    <table >
+        <tr>
+            <th>EMPLOYEEID</th>
+            <th>NAME</th>
+            <th>DEPARTMENT</th>
+            <th>SALARY</th>
+            <th>EMAIL</th>
+        </tr>
+         
+            @foreach (var item in Model)
+            {
+                <tr><td>@item.Employeeid</td>
+                    <td>@item.Name</td>
+                    <td>@item.Department</td>
+                    <td>@item.Salary</td>
+                    <td>@item.Email</td>
+                    </tr>
+            }
+        
+        
+
+    </table>
+</div>
